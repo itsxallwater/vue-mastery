@@ -5,8 +5,8 @@ Taking advantage of the free weekend at [Vue Mastery](https://www.vuemastery.com
 ## Progress
 
 - [x] [Real World Vue.js](https://www.vuemastery.com/courses/real-world-vue-js/API-calls-with-Axios) (9/9)
-- [ ] [Mastering Vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) (6/7)
-- [ ] [Next-Level Vue](https://www.vuemastery.com/courses/next-level-vue/next-level-vue-orientation) (0/10)
+- [x] [Mastering Vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) (7/7)
+- [ ] [Next-Level Vue](https://www.vuemastery.com/courses/next-level-vue/next-level-vue-orientation) (1/10)
 - [ ] [Advanced Components](https://www.vuemastery.com/courses/advanced-components/the-introduction) (0/12)
 - [ ] [Scaling Vue with Nuxt.js](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt) (0/3)
 
