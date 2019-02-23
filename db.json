@@ -245,6 +245,34 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 4386055,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Mike"
+      },
+      "title": "Puppy Picnic",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1314236,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Mike"
+      },
+      "title": "Puppy Party",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
