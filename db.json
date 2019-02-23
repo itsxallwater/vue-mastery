@@ -44,6 +44,34 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 2029066,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Mike Wright"
+      },
+      "title": "Working?",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7725630,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Mike Wright"
+      },
+      "title": "Planting Trees",
+      "description": "We're going to plant trees",
+      "location": "The forest",
+      "date": "2019-09-30T06:30:00.000Z",
+      "time": "11:00",
+      "attendees": []
     }
   ]
 }
