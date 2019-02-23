@@ -1,27 +1,8 @@
-import Vue from 'vue'
-import Vuex from 'vuex'
 import EventService from '@/services/EventService.js'
 
-Vue.use(Vuex)
-
-export default new Vuex.Store({
+export default {
+  namespaced: true,
   state: {
-    user: { id: 'abc123', name: 'Mike Wright' },
-    categories: [
-      'sustainability',
-      'nature',
-      'animal welfare',
-      'housing',
-      'education',
-      'food',
-      'community'
-    ],
-    todos: [
-      { id: 1, text: '...', done: true },
-      { id: 2, text: '...', done: false },
-      { id: 3, text: '...', done: true },
-      { id: 4, text: '...', done: false }
-    ],
     events: [],
     eventsTotal: 0,
     event: {}
@@ -86,4 +67,4 @@ export default new Vuex.Store({
       return state.events.find(event => event.id === id)
     }
   }
-})
+}
