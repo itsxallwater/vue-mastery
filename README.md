@@ -1,6 +1,9 @@
 # Vue Mastery Coursework
 
-Taking advantage of the free weekends at [Vue Mastery](https://www.vuemastery.com) (2019-02-22 through 2019-02-24 and 2020-03-13 through 2020-03-15).
+Taking advantage of the free weekends at [Vue Mastery](https://www.vuemastery.com).
+
+- 2019-02-22 through 2019-02-24
+- 2020-03-13 through 2020-03-15
 
 ## Directories & Courses
 
