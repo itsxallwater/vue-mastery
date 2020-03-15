@@ -19,10 +19,15 @@ const dep = new Dep();
 let price = 5;
 let quantity = 2;
 let total = 0;
+let target = null;
 
-let target = () => {
+function watcher(myFunc) {
+  target = myFunc;
+  dep.depend();
+  target();
+  target = null;
+}
+
+watcher(() => {
   total = price * quantity;
-};
-
-dep.depend();
-target();
+});
