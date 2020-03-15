@@ -8,9 +8,17 @@ Taking advantage of the free weekends at [Vue Mastery](https://www.vuemastery.co
 
 - [ ] [Advanced Components](https://www.vuemastery.com/courses/advanced-components/evan-you-on-proxiesm) (2/12)
 
+`animating-vue`
+
+- [ ] [Animating Vue](https://www.vuemastery.com/courses/animating-vue/transitions) (1/9)
+
 `beautify-with-vuetify`
 
 - [ ] [Beautify with Vuetify](https://www.vuemastery.com/courses/beautify-with-vuetify/components-part-1) (1/9)
+
+`component-design-patterns`
+
+- [ ] [Component Design Patterns](https://www.vuemastery.com/courses/Component-Design-Patterns/props-fundamentals) (1/4)
 
 `real-world-vue`
 
@@ -29,6 +37,14 @@ Taking advantage of the free weekends at [Vue Mastery](https://www.vuemastery.co
 `unit-testing`
 
 - [ ] [Unit Testing](https://www.vuemastery.com/courses/unit-testing/what-to-test) (1/8)
+
+`vue-3-essentials`
+
+- [ ] [Vue 3 Essentials](https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api) (0/9)
+
+`vue-3-reactivity`
+
+- [ ] [Vue 3 Reactivity](https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity) (0/6)
 
 `watch-us-build-trello-clone`
 
