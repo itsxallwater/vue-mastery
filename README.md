@@ -35,7 +35,7 @@ Taking advantage of the free weekends at [Vue Mastery](https://www.vuemastery.co
 
 `token-based-authentication`
 
-- [ ] [Token Based Authentication](https://www.vuemastery.com/courses/token-based-authentication/user-logout) (4/7)
+- [ ] [Token Based Authentication](https://www.vuemastery.com/courses/token-based-authentication/handling-errors) (5/7)
 
 `unit-testing`
 
