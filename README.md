@@ -8,6 +8,10 @@ Taking advantage of the free weekends at [Vue Mastery](https://www.vuemastery.co
 
 - [ ] [Advanced Components](https://www.vuemastery.com/courses/advanced-components/evan-you-on-proxiesm) (2/12)
 
+`beautify-with-vuetify`
+
+- [ ] [Beautify with Vuetify](https://www.vuemastery.com/courses/beautify-with-vuetify/components-part-1) (1/9)
+
 `real-world-vue`
 
 - [x] [Real World Vue.js](https://www.vuemastery.com/courses/real-world-vue-js/API-calls-with-Axios) (9/9)
@@ -28,4 +32,4 @@ Taking advantage of the free weekends at [Vue Mastery](https://www.vuemastery.co
 
 `watch-us-build-trello-clone`
 
-- [ ] [Watch Us Build a Trello Clone]() (1/10)
+- [ ] [Watch Us Build a Trello Clone](https://www.vuemastery.com/courses/watch-us-build-trello-clone/building-our-board) (1/10)
