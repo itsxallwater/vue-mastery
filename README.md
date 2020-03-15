@@ -39,7 +39,7 @@ Taking advantage of the free weekends at [Vue Mastery](https://www.vuemastery.co
 
 `unit-testing`
 
-- [ ] [Unit Testing](https://www.vuemastery.com/courses/unit-testing/what-to-test) (1/8)
+- [ ] [Unit Testing](https://www.vuemastery.com/courses/unit-testing/Testing-Props-and-User-Interaction) (3/8)
 
 `vue-3-essentials`
 
