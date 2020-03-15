@@ -31,7 +31,7 @@ Taking advantage of the free weekends at [Vue Mastery](https://www.vuemastery.co
 
 `scaling-vue-with-nuxt`
 
-- [ ] [Scaling Vue with Nuxt.js](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/creating-a-nuxt-app) (1/10)
+- [ ] [Scaling Vue with Nuxt.js](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/universal-mode) (2/10)
 
 `token-based-authentication`
 
