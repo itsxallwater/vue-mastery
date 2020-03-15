@@ -1,3 +1,6 @@
+let data = { price: 5, quantity: 2 };
+let target, total, salePrice;
+
 class Dep {
   constructor() {
     this.subscribers = [];
@@ -14,20 +17,33 @@ class Dep {
   }
 }
 
-const dep = new Dep();
+Object.keys(data).forEach(key => {
+  let internalValue = data[key];
 
-let price = 5;
-let quantity = 2;
-let total = 0;
-let target = null;
+  const dep = new Dep();
+
+  Object.defineProperty(data, key, {
+    get() {
+      dep.depend();
+      return internalValue;
+    },
+    set(newVal) {
+      internalValue = newVal;
+      dep.notify();
+    }
+  });
+});
 
 function watcher(myFunc) {
   target = myFunc;
-  dep.depend();
   target();
   target = null;
 }
 
 watcher(() => {
-  total = price * quantity;
+  total = data.price * data.quantity;
+});
+
+watcher(() => {
+  salePrice = data.price * 0.9;
 });
