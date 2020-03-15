@@ -8,3 +8,5 @@ Taking advantage of the free weekends at [Vue Mastery](https://www.vuemastery.co
   - [x] [Real World Vue.js](https://www.vuemastery.com/courses/real-world-vue-js/API-calls-with-Axios) (9/9)
   - [x] [Mastering Vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) (7/7)
   - [x] [Next-Level Vue](https://www.vuemastery.com/courses/next-level-vue/next-level-vue-orientation) (13/13)
+- `token-based-authentication`
+  - [ ] [Token Based Authentication](https://www.vuemastery.com/courses/token-based-authentication/user-registration) (2/7)
