@@ -42,4 +42,3 @@
   display: inline-block;
 }
 </style>
-    
